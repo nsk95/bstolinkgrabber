@@ -50,6 +50,3 @@ foreach($episodes as $episode) {
     $episodeContent->clear();
     unset($episodeContent);
 }
-// print "<pre>";
-// print_r($seasons);
-// print "</pre>";
